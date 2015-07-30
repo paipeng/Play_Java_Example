@@ -1,0 +1,13 @@
+New log file opened at Thu Jul 30 17:20:40 CEST 2015 by 5646@Pais-Air.fritz.box
+Taking next connection to: 60615
+New client attempting to connect on port: 60616-60615
+  Address = /10.0.1.87:60615
+This client on port 60616 has uuid 91a38def-b7a2-49f4-b430-120eaca0e3df configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-91a38def-b7a2-49f4-b430-120eaca0e3df
+Taking next connection to: 60615
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 5646@Pais-Air.fritz.box logs at Thu Jul 30 17:23:41 CEST 2015, goodbye.
